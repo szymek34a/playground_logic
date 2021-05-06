@@ -14,7 +14,7 @@ public class Main {
 //		
 //		int wynik = sumaAB(liczbaA, liczbaC);
 //		double dziel = dzielenie(liczbaA,liczbaC);
-//		
+//		06.05.2021
 //		wyswietl(wynik);
 //		wyswietl(5.0);
 //		

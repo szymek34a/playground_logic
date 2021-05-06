@@ -14,13 +14,7 @@ public class Main {
 //		
 //		int wynik = sumaAB(liczbaA, liczbaC);
 //		double dziel = dzielenie(liczbaA,liczbaC);
-//		06.05.2021
-//		wyswietl(wynik);
-//		wyswietl(5.0);
-//		
-//		wyswietl(mnozenie(2.3, 5.5));
-//		wyswietl(odejmowanie(10,4));
-//		wyswietl(dzielenie(liczbaA,liczbaC));
+
 		
 		Scanner scan = new Scanner(System.in);	
 	    System.out.println("Wybierz dzia³anie (1 - dodawanie, 2 - odejmowanie, 3 - mnozenie, 4 - dzielenie)");

@@ -48,7 +48,7 @@ public class Main {
                 numberA = scan.nextLine();
                 System.out.println("Podaj drug¹ liczbe:");
                 numberB = scan.nextLine();
-        		System.out.print("Wybra³eœ 1 - dodawanie, liczba A to "+numberA +", liczba B to "+numberB+" wynik operacji to ");
+        		System.out.print("Wybra³eœ 1 - dodawanie, liczba A to " + numberA + ", liczba B to " + numberB + " wynik operacji to ");
         		printOnScreen(addition(Integer.parseInt(numberA),Integer.parseInt(numberB)));
         		break;
         	case 2:
